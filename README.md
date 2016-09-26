@@ -1,19 +1,19 @@
-# SciDataCon 2016 Presentation
+# ICE 2016 Presentation
 
-View slides: [https://tracykteal.github.io/scidatacon2016-presentation/slides.html](https://tracykteal.github.io/scidatacon2016-presentation/slides.html)
+View slides: [https://tracykteal.github.io/ICE2016-presentation/slides.html](https://tracykteal.github.io/ICE2016-presentation/slides.html)
 
 License: CC-BY
 
-Conference: [SciDataCon 2016](http://www.scidatacon.org)
-<br>Session: [Growing a global education in Research Data Science](http://www.scidatacon.org/2016/sessions/57/)
-<br>Location: Denver, CO
-<br>Date: September 12, 2016
+Conference: [International Congress of Entomology 2016](http://www.ice2016.org/)
+<br>Session: [Data Without Borders](https://www.idigbio.org/wiki/index.php/Data_Without_Borders_ICE_2016)
+<br>Location: Orlando, FL
+<br>Date: September 26, 2016
 
-Title: [Addressing the bottleneck to data-driven discovery: scaling data skills training for researchers](http://www.scidatacon.org/2016/sessions/57/paper/365/)
+Title: Preventing Bugs in Data Analysis: Data Skills to Improve the Reliability and Effectiveness of Entomological Research
 
 Author: Tracy Teal
 
-Abstract: 
+Abstract: Our increasing capacity to collect data is changing science. This is particularly true as specimen data is being digitized and availability of data is no longer the bottleneck. There is great potential for discovery, but we are primarily failing to translate this sea of data into scientific advances, because researchers are not trained in the skills needed for effective management and analysis. The question then becomes, in addition to scaling data production and computation, how do we develop and deliver training to scale data literate researchers? Course curriculums are slow to change, need qualified instructors and are already full. Short courses are oversubscribed and reach a limited number of participants. To provide scalable and distributed training, Data Carpentry develops and teaches domain-specific hands-on workshops in data organization, management, and analysis. This is a grassroots training effort developed by practitioners for practitioners, who identify core skills and collaboratively develop lessons. All lessons are open source, and workshops are taught by volunteers trained by the Software Carpentry Foundation. With iDigBio, a focus has been on training in the biodiversity community. Workshops are designed for people with little to no prior computational experience and teach in two days how to organize and clean data, manage data in SQL and analyze and visualize data in R – the full data lifecycle. Workshops are in high demand, but this model allows for scaling of training and teaches the foundational skills to get biologists started managing and analyzing their data effectively.
 
 **Summary**
 
